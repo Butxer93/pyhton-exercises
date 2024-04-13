@@ -1,4 +1,4 @@
-name = 'Kristine'
+name = 'Ibon'
 product = 'Python elearning course'
 
 email_content = f"""
